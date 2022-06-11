@@ -1,2 +1,2 @@
 # instagram-bot
-Instagram bot that gives like all the posts
+Instagram bot will click like button of each post by entering username, password and 'target' username.
