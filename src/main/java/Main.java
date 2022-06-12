@@ -2,9 +2,10 @@
 public class Main {
     public static void main(String[] args) {
 
-        String username = "aferqardashov.aq@gmail.com";
-        String password = "Tele4vizor.";
-        String profileName = "gs_ultaslan";
+        String username = "";//input username
+        String password = "";//input password
+        String profileName = "";//input target username
+        
         App app = new App(username, password);
         app.runBot(profileName);
     }
