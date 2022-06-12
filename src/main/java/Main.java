@@ -7,6 +7,6 @@ public class Main {
         String profileName = "";//input target username
         
         App app = new App(username, password);
-        app.runBot(profileName);
+        app.runBot(profileName);//start BOT
     }
 }
